@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e1ed9d2_002D0d58_002D496a_002D82b6_002Db6788faff6d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::7D500B20-FA66-4C4D-B1FE-14E6C9F070EB::net7.0::QuestionnaireService.Integration.Test.BasicIntegrationTest.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4748954B-DD8F-474D-8F08-E63B4262B81E::net7.0::QuestionnaireService.Infrastructure.Test.QuestionnaireRepositoryTest.WhenInstantiated_LoadsDataCorrectly&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7D500B20-FA66-4C4D-B1FE-14E6C9F070EB::net7.0::QuestionnaireService.Integration.Test.BasicIntegrationTest.BasicHappyPathTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.QuestionnaireRepositoryTest.WhenInstantiated_LoadsDataCorrectly&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.ScoringServiceTest.GenerateScoringResult_WhenPassedWithValidAnswers_ReturnsResult&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.AnswerSheetMapperTest.Score_WhenPassedWithAnswersAndQuestionnaire_ReturnsScore&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.AnswerMapperTest.MapAnswer_WhenOnlyOneChoiceIsAllowed_ReturnsCorrectScore&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.AnswerMapperTest.MapAnswer_WhenMultipleChoicesAreAllowed_ReturnsCorrectScore&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.AnswerMapperTest.MapAnswer_WhenSingleChoiceIsAllowedButMultipleSupplied_Throws&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.CandidateRepositoryTest.GetCandidateById_WhenCandidateWithIdExists_ReturnsCandidate&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.CandidateRepositoryTest.GetCandidateById_WhenCandidateWithIdDoesntExist_ThrowsException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::826CD135-3956-4034-9722-1675E66301E9::net7.0::QuestionnaireService.Domain.Test.QuestionnaireRepositoryTest.GetQuestionnaireById_WhenQuestionnaireDoesntExist_ThrowsException&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=72c12cd6_002D1f7a_002D491a_002D9c96_002D5c00e25dc94e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::7D500B20-FA66-4C4D-B1FE-14E6C9F070EB::net7.0::QuestionnaireService.Integration.Test.BasicIntegrationTest.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

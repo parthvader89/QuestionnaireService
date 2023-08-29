@@ -1,0 +1,14 @@
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/bin/Debug/net7.0/QuestionnaireService.Domain.deps.json
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/bin/Debug/net7.0/QuestionnaireService.Domain.dll
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/bin/Debug/net7.0/QuestionnaireService.Domain.pdb
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/QuestionnaireService.Domain.csproj.AssemblyReference.cache
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/QuestionnaireService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/QuestionnaireService.Domain.AssemblyInfoInputs.cache
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/QuestionnaireService.Domain.AssemblyInfo.cs
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/QuestionnaireService.Domain.csproj.CoreCompileInputs.cache
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/QuestionnaireService.Domain.dll
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/refint/QuestionnaireService.Domain.dll
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/QuestionnaireService.Domain.pdb
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/obj/Debug/net7.0/ref/QuestionnaireService.Domain.dll
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/bin/Debug/net7.0/Questionnaires.json
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/bin/Debug/net7.0/Candidates.json

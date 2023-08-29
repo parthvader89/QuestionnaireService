@@ -1,0 +1,15 @@
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/bin/Debug/net7.0/QuestionnaireService.Application.deps.json
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/bin/Debug/net7.0/QuestionnaireService.Application.dll
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/bin/Debug/net7.0/QuestionnaireService.Application.pdb
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/bin/Debug/net7.0/QuestionnaireService.Domain.dll
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/bin/Debug/net7.0/QuestionnaireService.Domain.pdb
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/QuestionnaireService.Application.csproj.AssemblyReference.cache
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/QuestionnaireService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/QuestionnaireService.Application.AssemblyInfoInputs.cache
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/QuestionnaireService.Application.AssemblyInfo.cs
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/QuestionnaireService.Application.csproj.CoreCompileInputs.cache
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/QuestionnaireService.Application.csproj.CopyComplete
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/QuestionnaireService.Application.dll
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/refint/QuestionnaireService.Application.dll
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/QuestionnaireService.Application.pdb
+/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Application/obj/Debug/net7.0/ref/QuestionnaireService.Application.dll

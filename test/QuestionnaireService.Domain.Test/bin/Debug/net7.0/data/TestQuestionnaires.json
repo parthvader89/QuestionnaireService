@@ -1,0 +1,120 @@
+[
+  {
+    "QuestionnaireId": 1,
+    "Description": "The first questionnaire.",
+    "Questions": [
+      {
+        "QuestionId": "TESTQUESTIONNAIRE1",
+        "QuestionType": "MultipleOptionMultipleChoice",
+        "Description": "q1q1",
+        "Choices": [
+          {
+            "ChoiceId": 1,
+            "Description": "A11",
+            "Points": 1
+          },
+          {
+            "ChoiceId": 2,
+            "Description": "B11",
+            "Points": 1
+          },{
+            "ChoiceId": 3,
+            "Description": "C11",
+            "Points": 1
+          },
+          {
+            "ChoiceId": 4,
+            "Description": "None",
+            "Points": 0,
+            "IsNoneOfTheAbove": true
+          }
+        ]
+      },
+      {
+        "QuestionId": 2,
+        "QuestionType": "MultipleOptionSingleChoice",
+        "Description": "q1q2",
+        "Choices": [
+          {
+            "ChoiceId": 1,
+            "Description": "A12",
+            "Points": 0
+          },
+          {
+            "ChoiceId": 2,
+            "Description": "B12",
+            "Points": 1
+          },{
+            "ChoiceId": 3,
+            "Description": "C12",
+            "Points": 2
+          },
+          {
+            "ChoiceId": 4,
+            "Description": "D12",
+            "Points": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "QuestionnaireId": 2,
+    "Description": "The second questionnaire.",
+    "Questions": [
+      {
+        "QuestionId": "TESTQUESTIONNAIRE2",
+        "QuestionType": "MultipleOptionMultipleChoice",
+        "Description": "q2q1",
+        "Choices": [
+          {
+            "ChoiceId": 1,
+            "Description": "A21",
+            "Points": 1
+          },
+          {
+            "ChoiceId": 2,
+            "Description": "B21",
+            "Points": 1
+          },{
+            "ChoiceId": 3,
+            "Description": "C21",
+            "Points": 1
+          },
+          {
+            "ChoiceId": 4,
+            "Description": "None",
+            "Points": 0,
+            "IsNoneOfTheAbove": true
+          }
+        ]
+      },
+      {
+        "QuestionId": 2,
+        "QuestionType": "MultipleOptionSingleChoice",
+        "Description": "q2q2",
+        "Choices": [
+          {
+            "ChoiceId": 1,
+            "Description": "A22",
+            "Points": 0
+          },
+          {
+            "ChoiceId": 2,
+            "Description": "B22",
+            "Points": 1
+          },{
+            "ChoiceId": 3,
+            "Description": "C22",
+            "Points": 2
+          },
+          {
+            "ChoiceId": 4,
+            "Description": "D22",
+            "Points": 0
+          }
+        ]
+      }
+    ]
+  }
+]

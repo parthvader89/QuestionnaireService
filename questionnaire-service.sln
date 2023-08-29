@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{012E8A34-6F41-46AF-AC17-02F6ABB6D1E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionnaireService.Api", "src\QuestionnaireService.Api\QuestionnaireService.Api.csproj", "{B8244383-5FD2-4B96-8B96-4C9A19432798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionnaireService.Domain", "src\QuestionnaireService.Domain\QuestionnaireService.Domain.csproj", "{A2635380-F750-4690-8A5E-879023D6B118}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D4AC10E8-AE2D-420D-A092-76172CED825F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionnaireService.Domain.Test", "test\QuestionnaireService.Domain.Test\QuestionnaireService.Domain.Test.csproj", "{826CD135-3956-4034-9722-1675E66301E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionnaireService.Integration.Test", "test\QuestionnaireService.Integration.Test\QuestionnaireService.Integration.Test.csproj", "{7D500B20-FA66-4C4D-B1FE-14E6C9F070EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8244383-5FD2-4B96-8B96-4C9A19432798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8244383-5FD2-4B96-8B96-4C9A19432798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8244383-5FD2-4B96-8B96-4C9A19432798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8244383-5FD2-4B96-8B96-4C9A19432798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2635380-F750-4690-8A5E-879023D6B118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2635380-F750-4690-8A5E-879023D6B118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2635380-F750-4690-8A5E-879023D6B118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2635380-F750-4690-8A5E-879023D6B118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826CD135-3956-4034-9722-1675E66301E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826CD135-3956-4034-9722-1675E66301E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826CD135-3956-4034-9722-1675E66301E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826CD135-3956-4034-9722-1675E66301E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D500B20-FA66-4C4D-B1FE-14E6C9F070EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D500B20-FA66-4C4D-B1FE-14E6C9F070EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D500B20-FA66-4C4D-B1FE-14E6C9F070EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D500B20-FA66-4C4D-B1FE-14E6C9F070EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8244383-5FD2-4B96-8B96-4C9A19432798} = {012E8A34-6F41-46AF-AC17-02F6ABB6D1E2}
+		{A2635380-F750-4690-8A5E-879023D6B118} = {012E8A34-6F41-46AF-AC17-02F6ABB6D1E2}
+		{826CD135-3956-4034-9722-1675E66301E9} = {D4AC10E8-AE2D-420D-A092-76172CED825F}
+		{7D500B20-FA66-4C4D-B1FE-14E6C9F070EB} = {D4AC10E8-AE2D-420D-A092-76172CED825F}
+	EndGlobalSection
+EndGlobal

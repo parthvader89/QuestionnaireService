@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Iu45uwti32OL/5qOt0bNS5TsvuTY9jdQFNPmI5MhIwU=",
+  "Source": "QuestionnaireService.Api",
+  "BasePath": "_content/QuestionnaireService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

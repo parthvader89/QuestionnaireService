@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/QuestionnaireService.Api.props" />
+</Project>

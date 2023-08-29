@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4inEI4Gp/UYzu7Nfwc+iNvZCcSPCv+cWhrlcN8hGXuDeqdEw2tRpOZ/lLAOF0up/W6y2CRR8NN0qlp+ZpavXg==",
+  "success": true,
+  "projectFilePath": "/Users/parthaggarwal/mytutor/QuestionnaireService/src/QuestionnaireService.Domain/QuestionnaireService.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/parthaggarwal/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

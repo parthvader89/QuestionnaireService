@@ -1,0 +1,14 @@
+{
+  "CandidateId" : 53,
+  "QuestionnaireId" : "FIRSTQUESTIONNAIRE",
+  "AnswerSheet" : [
+    {
+      "QuestionId" : 1,
+      "Selection" : [1,2,3]
+    },
+    {
+      "QuestionId" : 2,
+      "Selection" : [3]
+    }
+  ]
+}
